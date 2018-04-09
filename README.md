@@ -25,3 +25,13 @@ available through deliberate means of harvesting human power (e.g. through a han
 pedal), but it is our goal to unobtrusively collect energy for low-power applications. We have
 approached this problem by using the energy from the weight transfer during a step to perform useful
 work.
+
+Currently we take these listed information about our battery/powerbank
+1. Battery Condition
+2. Battery Temperature
+3. Power Source
+4. Charging Status
+5. Battery Type
+6. Voltage
+
+and while charging the battery icon will blink
