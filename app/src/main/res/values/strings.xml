@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Piezo-Shoes</string>
+    <string name="app_desc">Please connect your device to a power source.
+        The charging status should show as charging.
+        Check your battery condition and observe if the charging percentage changes over time.</string>
+    <string name="introduction">
+        As wearable electronic devices evolve and proliferate, there will be a growing need for more power
+delivery to distributed points around the human body. Today, much of that storage is provided by
+batteries and power delivery is via wires. The current approach to power distribution is clearly
+becoming problematic -- as more appliances are carried, we are forced to either use more small
+batteries that require replacement everywhere or run wires through our clothing to supply appliances
+from a central power source. Both are undesirable. A better solution is clearly to generate power where
+it is being used, bypassing the storage and distribution problem altogether. As power requirements
+drop for most wearable devices, it is no longer infeasible to harvest a useful amount of energy
+&quot;parasitically&quot; from a normal range of human activity.
+    </string>
+    <string name="literature">The project is be accomplished by using piezoelectric materials. Piezoelectricity, also called the
+piezoelectric effect, is the ability of certain materials to generate an alternating current voltage when
+actuated. Certain ceramics, Rochelle salts, and various other solids exhibit this effect. For example,
+(Pb[ZrxTi1−x]O3 where,0≤x≤1), also called PZT, will generate measurable electricity when their structure
+is deformed by about 0.1% of the original dimension(International AAAI Conference on Social Media and
+Weblogs, 2012). In this project, the generated electricity on a specific time will be recorded and
+determine if it would be enough to completely charge a Li-ion battery or a high capacity capacitor.
+The project is be accomplished by using piezoelectric materials. Piezoelectricity, also called the
+piezoelectric effect, is the ability of certain materials to generate an alternating current voltage when
+actuated. Certain ceramics, Rochelle salts, and various other solids exhibit this effect. For example,
+(Pb[ZrxTi1−x]O3 where,0≤x≤1), also called PZT, will generate measurable electricity when their structure
+is deformed by about 0.1% of the original dimension(International AAAI Conference on Social Media and
+Weblogs, 2012). In this project, the generated electricity on a specific time will be recorded and
+determine if it would be enough to completely charge a Li-ion battery or a high capacity capacitor.
+The piezoelectric effect, by which a material generates an electric potential in response to a
+temperature change, was studied by Carl Linnaeus and Franz Aepinus in the mid-18th century. Drawing
+on this knowledge, both René Just Haüy and Antoine César Becquerel posited a relationship between
+mechanical stress and electric charge; however, experiments by both proved inconclusive. The first
+demonstration of the direct piezoelectric effect was in 1880 by the brothers Pierre Curie and Jacques
+Curie. They combined their knowledge of pyroelectricity with their understanding of the underlying
+crystal structures that gave rise to pyroelectricity to predict crystal behaviour, and demonstrated the
+effect using crystals of tourmaline, quartz, topaz, cane sugar, and Rochelle salt (sodium potassium
+tartrate tetrahydrate). Quartz and Rochelle salt exhibited the most piezoelectricity.</string>
+</resources>
