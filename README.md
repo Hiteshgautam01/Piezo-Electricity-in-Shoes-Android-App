@@ -1,5 +1,5 @@
 # Piezo-Electricity-in-Shoes-Android-App
-INTRODUCTION
+#INTRODUCTION
 As wearable electronic devices evolve and proliferate, there will be a growing need for more power
 delivery to distributed points around the human body. Today, much of that storage is provided by
 batteries and power delivery is via wires. The current approach to power distribution is clearly
