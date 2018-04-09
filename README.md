@@ -33,5 +33,6 @@ Currently we take these listed information about our battery/powerbank
 4. Charging Status
 5. Battery Type
 6. Voltage
+7. Battery Percentage
 
-and while charging the battery icon will blink
+and while charging the battery icon will blink.
